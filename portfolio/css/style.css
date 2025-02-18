@@ -1,0 +1,10 @@
+.banner{
+    background-image: url(/portfolio/img.html/proto\ back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+}
+
+.skills-padding{
+    padding: 70px 0;
+}
